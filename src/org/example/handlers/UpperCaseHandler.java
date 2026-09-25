@@ -1,5 +1,5 @@
-package handlers.impl;
-import handlers.TextHandler;
+package org.example.handlers;
+
 public class UpperCaseHandler implements TextHandler {
     @Override
     public String handle(String input){
