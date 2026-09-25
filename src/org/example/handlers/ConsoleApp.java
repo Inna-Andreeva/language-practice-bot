@@ -1,7 +1,4 @@
-package bott;
-import handlers.TextHandler;
-import handlers.impl.CamelCaseHandler;
-import handlers.impl.UpperCaseHandler;
+package org.example.handlers;
 import java.util.Scanner;
 public class ConsoleApp {
    public static void main(String[] args){
